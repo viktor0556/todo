@@ -1,0 +1,44 @@
+2024-04-08T22:41:40.545Z - Error: Teszt hiba dobása
+    at /home/erdosviktor/Programming/node.js alapok/read-write-file-exercise/node-7-middleware/server6.js:7:9
+    at Layer.handle [as handle_request] (/home/erdosviktor/Programming/node.js alapok/read-write-file-exercise/node-7-middleware/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/erdosviktor/Programming/node.js alapok/read-write-file-exercise/node-7-middleware/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/erdosviktor/Programming/node.js alapok/read-write-file-exercise/node-7-middleware/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/erdosviktor/Programming/node.js alapok/read-write-file-exercise/node-7-middleware/node_modules/express/lib/router/layer.js:95:5)
+    at /home/erdosviktor/Programming/node.js alapok/read-write-file-exercise/node-7-middleware/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/erdosviktor/Programming/node.js alapok/read-write-file-exercise/node-7-middleware/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/erdosviktor/Programming/node.js alapok/read-write-file-exercise/node-7-middleware/node_modules/express/lib/router/index.js:280:10)
+    at expressInit (/home/erdosviktor/Programming/node.js alapok/read-write-file-exercise/node-7-middleware/node_modules/express/lib/middleware/init.js:40:5)
+    at Layer.handle [as handle_request] (/home/erdosviktor/Programming/node.js alapok/read-write-file-exercise/node-7-middleware/node_modules/express/lib/router/layer.js:95:5)
+2024-04-08T22:42:51.939Z - Error: Teszt hiba dobása
+    at /home/erdosviktor/Programming/node.js alapok/read-write-file-exercise/node-7-middleware/server6.js:7:9
+    at Layer.handle [as handle_request] (/home/erdosviktor/Programming/node.js alapok/read-write-file-exercise/node-7-middleware/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/erdosviktor/Programming/node.js alapok/read-write-file-exercise/node-7-middleware/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/erdosviktor/Programming/node.js alapok/read-write-file-exercise/node-7-middleware/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/erdosviktor/Programming/node.js alapok/read-write-file-exercise/node-7-middleware/node_modules/express/lib/router/layer.js:95:5)
+    at /home/erdosviktor/Programming/node.js alapok/read-write-file-exercise/node-7-middleware/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/erdosviktor/Programming/node.js alapok/read-write-file-exercise/node-7-middleware/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/erdosviktor/Programming/node.js alapok/read-write-file-exercise/node-7-middleware/node_modules/express/lib/router/index.js:280:10)
+    at expressInit (/home/erdosviktor/Programming/node.js alapok/read-write-file-exercise/node-7-middleware/node_modules/express/lib/middleware/init.js:40:5)
+    at Layer.handle [as handle_request] (/home/erdosviktor/Programming/node.js alapok/read-write-file-exercise/node-7-middleware/node_modules/express/lib/router/layer.js:95:5)
+2024-04-08T22:43:21.569Z - Error: Teszt hiba dobása
+    at /home/erdosviktor/Programming/node.js alapok/read-write-file-exercise/node-7-middleware/server6.js:7:9
+    at Layer.handle [as handle_request] (/home/erdosviktor/Programming/node.js alapok/read-write-file-exercise/node-7-middleware/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/erdosviktor/Programming/node.js alapok/read-write-file-exercise/node-7-middleware/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/erdosviktor/Programming/node.js alapok/read-write-file-exercise/node-7-middleware/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/erdosviktor/Programming/node.js alapok/read-write-file-exercise/node-7-middleware/node_modules/express/lib/router/layer.js:95:5)
+    at /home/erdosviktor/Programming/node.js alapok/read-write-file-exercise/node-7-middleware/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/erdosviktor/Programming/node.js alapok/read-write-file-exercise/node-7-middleware/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/erdosviktor/Programming/node.js alapok/read-write-file-exercise/node-7-middleware/node_modules/express/lib/router/index.js:280:10)
+    at expressInit (/home/erdosviktor/Programming/node.js alapok/read-write-file-exercise/node-7-middleware/node_modules/express/lib/middleware/init.js:40:5)
+    at Layer.handle [as handle_request] (/home/erdosviktor/Programming/node.js alapok/read-write-file-exercise/node-7-middleware/node_modules/express/lib/router/layer.js:95:5)
+2024-04-08T22:44:08.031Z - Error: Teszt hiba dobása
+    at /home/erdosviktor/Programming/node.js alapok/read-write-file-exercise/node-7-middleware/server6.js:7:9
+    at Layer.handle [as handle_request] (/home/erdosviktor/Programming/node.js alapok/read-write-file-exercise/node-7-middleware/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/erdosviktor/Programming/node.js alapok/read-write-file-exercise/node-7-middleware/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/erdosviktor/Programming/node.js alapok/read-write-file-exercise/node-7-middleware/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/erdosviktor/Programming/node.js alapok/read-write-file-exercise/node-7-middleware/node_modules/express/lib/router/layer.js:95:5)
+    at /home/erdosviktor/Programming/node.js alapok/read-write-file-exercise/node-7-middleware/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/erdosviktor/Programming/node.js alapok/read-write-file-exercise/node-7-middleware/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/erdosviktor/Programming/node.js alapok/read-write-file-exercise/node-7-middleware/node_modules/express/lib/router/index.js:280:10)
+    at expressInit (/home/erdosviktor/Programming/node.js alapok/read-write-file-exercise/node-7-middleware/node_modules/express/lib/middleware/init.js:40:5)
+    at Layer.handle [as handle_request] (/home/erdosviktor/Programming/node.js alapok/read-write-file-exercise/node-7-middleware/node_modules/express/lib/router/layer.js:95:5)
